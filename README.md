@@ -1,5 +1,7 @@
 # karthik-demo
 this is my first git  repository
 <br>
-Author -Karthik.How are you
+Author -Karthik.
 <br>
+How are you
+
